@@ -9,7 +9,7 @@
 # The hard Disk is the part of a computer that stores information permanently forexample its like when you can keep your clothes in a wodrop and when you go anywhere your clothes can stay there thats the same thing with the hard disk.
 # A variable is a place in a memory where a program can store and change data while it runs for instance think of a labeled container ,container is the variable ,the label is variable's name ,and the stuff inside is the data stored in a variable
 # A statement is a command that a computer carries out when the program runs forexample when i tell my bodaboda guy to stop at the next supermarket that means i have given him an instruction and he has to follow it just like a statement tells a computer what to do
-# A code is a set of instructions that control how a computer behaves forexample its like when i tell my boda boda man to turn right in the next corner or telling him to stop at kikuubo, i can be giving him instruction and thats means am giving instructions to a boda man step by step  just like a code can tell a computer what to do step by step
+# A code is a set of instructions that control how a computer behaves forexample its like when i tell my boda boda man to turn right in the next corner or telling him to stop at kikuubo, and thats means am giving him instructions step by step just like a code can tell a computer what to do step by step
 # A block of code is a group of statements that are grouped together so that a computer can know where they belong when it comes to do a task.
 # name = "Karungi" whereby name is the variable and Karungi is the value stored inside the variable
 # age = 20 whereby age is a variable beacuse it changes every time and 20 is the value
