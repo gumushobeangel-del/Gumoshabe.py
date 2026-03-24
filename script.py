@@ -12,8 +12,8 @@
 # A code is a set of instructions that control how a computer behaves forexample when your going to do something,you first plan and after do something thats the way as for a code whereby it can tell a computer what to do step by step.
 # A block of code is a set of two or more statements that are grouped together so that a computer can know where they belong when it comes to do a task.
 # name = "Karungi" whereby name is the variable and Karungi is the value stored inside the variable
-# age = "20" whereby age is a variable beacuse it changes every time and 20 is the value
-# hips = "27" its a variable because it can change atany time
+# age = 20 whereby age is a variable beacuse it changes every time and 20 is the value
+# hips = 27 its a variable because it can change atany time
 # height = 5.7
 # Declaring is the process of introducing a variable to a computer before using it
 # Initializing is the process of giving a variable its starting value
